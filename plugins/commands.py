@@ -340,7 +340,7 @@ async def start(client, message):
                     [
                      [
                       InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK),
-                          InlineKeyboardButton('ɢʀᴏᴜᴘ', url=GRP_LNK)
+                      InlineKeyboardButton('ɢʀᴏᴜᴘ', url=GRP_LNK)
                      ]
                     ]
                 )
